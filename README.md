@@ -1,4 +1,7 @@
 # Quora Insincere Questions Classification
+
+![alt text](pic.jpeg)
+
 Public solutions for [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification)
 
 | Place on Private LB | Description of approach | Code - Kaggle | Code - Github | Author |
