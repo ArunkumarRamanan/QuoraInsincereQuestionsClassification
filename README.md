@@ -2,7 +2,7 @@
 Public solutions for [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification)
 
 | Place on Private LB | Description of approach | Code - Kaggle | Code - Github | Author |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | 3  | [Link](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80495)  | [Link](https://www.kaggle.com/wowfattie/3rd-place)  | [Link]()  | [Guanshuo Xu](https://www.kaggle.com/wowfattie)  |
 | 27 | [Link](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80494)  | [Link](https://www.kaggle.com/dicksonchin93/kfold-tfidf-trial) | -  | [Chin Ee Kin](https://www.kaggle.com/dicksonchin93)  |
 | 13 | [Link](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80499)  | [Link](https://www.kaggle.com/canming/ensemble-mean-iii-64-36)  | [Link]()  | [Canming Wang](https://www.kaggle.com/canming)  |
