@@ -6,7 +6,7 @@
 Public solutions for [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification)
 
 | Place on Private LB | Description of approach | Code - Kaggle |
-| :-------------: | :-------------: | :-------------: | :-------------: |
+| :-------------: | :-------------: | :-------------: |
 | 3  | [Link](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80495)  | [Link](https://www.kaggle.com/wowfattie/3rd-place)  | 
 | 27 | [Link](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80494)  | [Link](https://www.kaggle.com/dicksonchin93/kfold-tfidf-trial) |
 | 13 | [Link](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80499)  | [Link](https://www.kaggle.com/canming/ensemble-mean-iii-64-36)  | 
