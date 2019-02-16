@@ -1,7 +1,7 @@
 # Quora Insincere Questions Classification
 
 ![alt text](pic.jpeg)
-*When you are trying to clean toxic questions and comments from a website ("Night cleaning", photo by Yuri Shchennikov)*
+*When you are trying to clean toxic questions and comments on a website ("Night cleaning", photo by Yuri Shchennikov)*
 
 Public solutions for [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification)
 
